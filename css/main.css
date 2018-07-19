@@ -1,0 +1,23 @@
+div.searchbox {
+    position: absolute;
+    margin-top: 75px;
+    width: 100%;
+}
+div.searchbox input {
+    width: 600px; height: 30px;
+    border-radius: 5px;
+    margin-left: 225px;
+    margin-bottom: 20px;
+}
+div.buttons {
+    text-align: center;
+}
+img {
+    margin-left: 220px;
+}
+ul.nav {
+    float: right;
+    display: inline;
+    text-align: center;
+    list-style-type: disc;
+}
